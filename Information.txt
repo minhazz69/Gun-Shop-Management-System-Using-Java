@@ -1,0 +1,17 @@
+
+Gun Type= Pistol
+Gun Name= Scar-L
+Quantity= 12
+Ammo= true
+Magazine= 21212
+Scope= 4x
+Suppresor= true
+
+Gun Type= Sniper
+Gun Name= P1911
+Quantity= 1
+Ammo= true
+Magazine= 2
+Scope= 2x
+Suppresor= true
+
